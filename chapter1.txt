@@ -1,1 +1,2 @@
 This is a test file,for learing properties and functioning of github.
+This is a great story
